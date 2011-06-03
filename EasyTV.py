@@ -13,7 +13,6 @@ Version 0.22 resolved issue with old shows not being compared properly
 			 exception handling when website times out. 
 Version 0.23 Handles some support of offsite torrent files. 
 			 Utilises BT-CHAT site for torrents when EZTV is unavailable
-Version 0.24 Test COMMIT works for github
 			
 			
 			
