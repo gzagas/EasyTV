@@ -5,25 +5,6 @@ EasyTV.py
 
 Created by George on 2011-04-04.
 
-Version 0.1 Program Creation 
-Version 0.2 Clean up code  
-Version 0.21 added relaod of oldshows list to include most recent download
-Version 0.22 resolved issue with old shows not being compared properly
-			 exception handling when website times out. 
-Version 0.23 Handles some support of offsite torrent files. 
-			 Utilises BT-CHAT site for torrents when EZTV is unavailable
-			
-			
-			
-Feature: Needs exception handling.
-Known Issue: Some files are offsite at another site. How to grab them?
-Feature: Needs config.dta file
-Feature: Formating of files name for torrent. Something like Episode Season X Episode X 
-Feature: Meta X metadata support
-Feature: Needs the old episodes file to be routinely cleared and managed. 
-			setup that at least a hundres records need to be in the oldShows file and we clear the top 20	
-Known issue: if favourite show has space on end then it will not be compared properly.
-
 Debugging commands
 	#import pdb					
 			#pdb.set_trace()
