@@ -4,7 +4,6 @@
 EasyTV.py
 
 Created by George on 2011-04-04.
-Copyright (c) 2011 George Zagas. All rights reserved.
 
 Version 0.1 Program Creation 
 Version 0.2 Clean up code  
